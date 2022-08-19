@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mohssensadeq.github.io"><img width="40%" alt="Hello, I'm Mohssen. I do open source!" src="./Sadeq.png" /></a></p>
+<p align="center"><a href="https://mohssensadeq.github.io"><img width="80%" alt="Hello, I'm Mohssen. I do open source!" src="./Sadeq.png" /></a></p>
 
 <br />
 
