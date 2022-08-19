@@ -10,4 +10,4 @@ I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 - 📈 Built the University of Aden Website, Alsalahi Ex. Co. Website and more
 
-- ❤️ I love writing C#, and building fun experiments on type-level
+- ❤️ I love writing Python, SQL, C#, and analyzing data
