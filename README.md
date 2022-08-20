@@ -6,7 +6,7 @@ I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 **About me**
 
-- 💼 IT Engineer at [Alsalahi](http://alsalahiexco.net/)
+- 💼  Master of Artificial Intleigence Engineering student at [Passau University](http://alsalahiexco.net/)
 
 - 📈 Built the University of Aden Website, Alsalahi Ex. Co. Website and more
 
