@@ -5,7 +5,7 @@
 I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 **About me**
-- 🎁 All my projects are are coded by myself and has no at all sensetive information for an individual or a business company 
+- 🎁 All my projects are coded by myself and has no at all sensetive information for an individual or a business company 
 
 - 💼 Master of Artificial Intleigence Engineering student at [Passau University](https://www.uni-passau.de//)
 
