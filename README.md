@@ -5,10 +5,10 @@
 I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 **About me**
-- 🎁 All my projects are coded by myself and has no at all sensetive information for an individual or a business company 
+- 🎁 All my projects are coded by myself and have no sensitive information for an individual or a business company
 
 - 💼 Master of Artificial Intleigence Engineering student at [Passau University](https://www.uni-passau.de//)
 
-- 📈 Built the University of Aden Website, Alsalahi Ex. Co. Website and more
+- 📈 developing the Upcoming University of Aden Website, Alsalahi Ex. Co. Website, and more
 
-- ❤️ I love writing Python, SQL, C#, and analyzing data
+- ❤️ love writing Python, SQL, C#, and analyzing data
