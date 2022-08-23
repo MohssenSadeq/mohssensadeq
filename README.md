@@ -9,6 +9,6 @@ I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 - 💼 Master of Artificial Intleigence Engineering student at [Passau University](https://www.uni-passau.de//)
 
-- 📈 developing the Upcoming University of Aden Website, Alsalahi Ex. Co. Website, and more
+- 📈 Developing the Upcoming University of Aden Website, Alsalahi Ex. Co. Website, and more
 
-- ❤️ love writing Python, SQL, C#, and analyzing data
+- ❤️ Love writing Python, SQL, C#, and analyzing data
