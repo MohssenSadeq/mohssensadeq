@@ -11,4 +11,6 @@ I'm a self-taught passionate Data Analyst and Full Stack Developer from Yemen
 
 - 📈 Developing the Upcoming University of Aden Website, Alsalahi Ex. Co. Website, and more
 
+- ❤️ Love OS, Troubleshooting, Proplem-Solving, and IT Support
+
 - ❤️ Love writing Python, SQL, C#, and analyzing data
