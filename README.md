@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate DevOps and Full Stack Developer from Yemen
+I'm a self-taught passionate DevOps and Cloud Engineer from Yemen
 
 **About me**
 
