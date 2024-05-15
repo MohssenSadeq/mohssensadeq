@@ -2,11 +2,9 @@
 
 <br />
 
-I'm a self-taught passionate DevOps and Cloud Engineer from Yemen
+I'm a self-taught passionate System Administrator and a Cloud Engineer from Yemen
 
 **About me**
-
-- 💼 Master of Artificial Intelligence Engineering student at [Passau University](https://www.uni-passau.de//)
 
 - 📈 Developing the Upcoming University of Aden Website, Alsalahi Ex. Co. Website, and more
 
