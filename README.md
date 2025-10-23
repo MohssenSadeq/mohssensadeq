@@ -1,8 +1,26 @@
 # Portfolio Snapshot
 
-<p align="center">
-  <img width="80%" alt="Hello, I'm Mohssen Sadeq — Systems Administrator & Cloud Engineer" src="./Sadeq.png" />
-</p>
+<div align="center" style="margin: 2.5rem 0;">
+  <img
+    src="./Sadeq.png"
+    alt="Portrait of Mohssen Sadeq — Systems Administrator & Cloud Engineer"
+    width="280"
+    style="border-radius: 26px; box-shadow: 0 24px 60px -25px rgba(11, 13, 18, 0.55);"
+  />
+  <h1 style="margin-top: 1.25rem; font-size: 2.1rem;">Mohssen Sadeq</h1>
+  <p style="font-size: 1.1rem; color: #8c97ad; max-width: 520px;">
+    Systems Administrator • Cloud Engineer • Automation Enthusiast
+  </p>
+  <a href="https://msadeq.de" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-msadeq.de-0b0d12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
+  </a>
+  <a href="https://linkedin.com/in/mohssensadeq" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://github.com/mohssensadeq" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-@mohssensadeq-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+</div>
 
 ---
 
@@ -29,7 +47,7 @@ I'm **Mohssen Sadeq**, a self-taught Systems Administrator and Cloud Engineer wi
 
 ## Connect
 
-- Portfolio: [msadeq](https://mohssensadeq.github.io/myPortfolio/)
+- Portfolio: [msadeq.de](https://msadeq.de)
 - LinkedIn: [linkedin.com/in/mohssensadeq](https://linkedin.com/in/mohssensadeq)
 - GitHub: [github.com/mohssensadeq](https://github.com/mohssensadeq)
 - Email: [mohssensadequk@gmail.com](mailto:mohssensadequk@gmail.com)
