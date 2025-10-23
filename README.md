@@ -1,5 +1,3 @@
-# Portfolio Snapshot
-
 <div align="center" style="margin: 2.5rem 0;">
   
   <h1 style="margin-top: 1.25rem; font-size: 2.1rem;">Mohssen Sadeq</h1>
