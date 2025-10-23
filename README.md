@@ -2,7 +2,7 @@
   
   <h1 style="margin-top: 1.25rem; font-size: 2.1rem;">Mohssen Sadeq</h1>
   <p style="font-size: 1.1rem; color: #8c97ad; max-width: 520px;">
-    Systems Administrator • Cloud Engineer • Automation Enthusiast
+    Systems Administrator • Cloud Engineer • DevOps Engineer
   </p>
   <a href="https://mohssensadeq.github.io/myPortfolio/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-Sadeq-0b0d12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
