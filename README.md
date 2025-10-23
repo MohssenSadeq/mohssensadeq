@@ -7,7 +7,7 @@
     Systems Administrator • Cloud Engineer • Automation Enthusiast
   </p>
   <a href="https://mohssensadeq.github.io/myPortfolio/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-msadeq.de-0b0d12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Sadeq-0b0d12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
   </a>
   <a href="https://linkedin.com/in/mohssensadeq" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
@@ -42,7 +42,7 @@ I'm **Mohssen Sadeq**, a self-taught Systems Administrator and Cloud Engineer wi
 
 ## Connect
 
-- Portfolio: [msadeq.de](https://msadeq.de)
+- Portfolio: [Sadeq](https://Sadeq)
 - LinkedIn: [linkedin.com/in/mohssensadeq](https://linkedin.com/in/mohssensadeq)
 - GitHub: [github.com/mohssensadeq](https://github.com/mohssensadeq)
 - Email: [mohssensadequk@gmail.com](mailto:mohssensadequk@gmail.com)
