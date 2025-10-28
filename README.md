@@ -38,11 +38,4 @@ I'm **Mohssen Sadeq**, a self-taught Systems Administrator and Cloud Engineer wi
 - Exploring advanced observability patterns and AI-assisted operations workflows.
 - Mentoring peers transitioning into cloud and automation roles.
 
-## Connect
-
-- Portfolio: [Sadeq](https://Sadeq)
-- LinkedIn: [linkedin.com/in/mohssensadeq](https://linkedin.com/in/mohssensadeq)
-- GitHub: [github.com/mohssensadeq](https://github.com/mohssensadeq)
-- Email: [mohssensadequk@gmail.com](mailto:mohssensadequk@gmail.com)
-
 > 💡 **Note:** Every project in this repository is built by me for personal exploration and growth. They aren't official deliverables for any individual or organisation—just the output of a curious mind committed to learning.
