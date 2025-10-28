@@ -15,7 +15,7 @@
 
 ---
 
-I'm **Mohssen Sadeq**, a self-taught Systems Administrator and Cloud Engineer with a decade of hands-on experience hardening infrastructure, modernising legacy estates, and delivering resilient automation across on-prem and cloud environments. Relocating to pursue new challenges sharpened my curiosity, empathy, and focus on building systems that just work—quietly and reliably.
+I'm a self-taught Systems Administrator and Cloud Engineer with a decade of hands-on experience hardening infrastructure, modernising legacy estates, and delivering resilient automation across on-prem and cloud environments. Relocating to pursue new challenges sharpened my curiosity, empathy, and focus on building systems that just work—quietly and reliably.
 
 ## What I'm Known For
 
