@@ -1,16 +1,6 @@
-
+<div>
   <p style="font-size: 1.1rem; color: #8c97ad; max-width: 520px;">
     Systems Administrator • Cloud Engineer • DevOps Engineer
-  </p>
-  <a href="https://mohssensadeq.github.io/myPortfolio/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-Sadeq-0b0d12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio badge" />
-  </a>
-  <a href="https://linkedin.com/in/mohssensadeq" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://github.com/mohssensadeq" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-@mohssensadeq-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
 </div>
 
 ---
